@@ -1,5 +1,3 @@
-The second project in my InPlayer front end Internship.
-
 # Weather App
 
 The second project on my internship in InPlayer.<br/>
